@@ -7,3 +7,18 @@ html {
 *:after {
     box-sizing: inherit;
 }
+
+h1,
+h2,
+h3,
+p {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h4 {
+    font-family: bickham-script-pro-3, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
