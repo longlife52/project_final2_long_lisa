@@ -94,12 +94,16 @@ h3 {
 }
 
 #intro p {
-    padding: 2em;
+    padding: 2em 0 2em 1em;
     color: #fafafa;
     font-size: 2em;
 }
 
 /* Nav */
+nav h3 {
+    padding-top: 1.5em;
+}
+
 button {
     display: block;
     border: none;
@@ -127,6 +131,16 @@ button:hover {
 #food img {
     height: auto;
     width: 100%;
+}
+
+#food h3 {
+    padding-top: 1.5em;
+}
+
+#food p {
+    font-size: 2em;
+    margin: 0.5em;
+    padding: 0 0 2em 1em;
 }
 
 /* footer */
