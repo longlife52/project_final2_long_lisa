@@ -155,6 +155,7 @@ button:hover {
 /* footer */
 footer {
     text-align: center;
+    margin: 3em 0;
 }
 
 footer ul {
