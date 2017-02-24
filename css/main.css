@@ -8,6 +8,12 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #d7cec7;
+}
+
 h1,
 h2,
 h3,
@@ -15,6 +21,7 @@ p {
     font-family: proxima-nova-condensed, sans-serif;
     font-style: normal;
     font-weight: 400;
+    color: #565656;
 }
 
 h4 {
@@ -22,3 +29,13 @@ h4 {
     font-style: normal;
     font-weight: 400;
 }
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h3 {font-size: 2.5em}
