@@ -98,6 +98,29 @@ h3 {
     font-size: 2em;
 }
 
+/* Nav */
+button {
+    display: block;
+    border: none;
+    color: #d7cec7;
+    font-family: 'proxima-nova-condensed', sans-serif;
+    background-color: #841f27;
+    font-size: 1.5em;
+    padding: 2em;
+    width: 8em;
+    margin: auto;
+    margin-bottom: 2em;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+button:hover {
+    box-shadow: 0 0.75em 1em 0 rgba(0, 0, 0, 0.24), 0 1em 3.125em 0 rgba(0, 0, 0, 0.19);
+    background-color: #d7cec7;
+    color: #841f27;
+}
 
 /* footer */
 footer {
