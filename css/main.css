@@ -143,6 +143,15 @@ button:hover {
     padding: 0 0 2em 1em;
 }
 
+#food a {
+    text-decoration: none;
+    color: #841f27;
+}
+
+#food a:hover {
+    color: #d7cec7;
+}
+
 /* footer */
 footer {
     text-align: center;
