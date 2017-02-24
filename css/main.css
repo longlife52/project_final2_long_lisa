@@ -123,6 +123,12 @@ button:hover {
     color: #841f27;
 }
 
+/* food section style */
+#food img {
+    height: auto;
+    width: 100%;
+}
+
 /* footer */
 footer {
     text-align: center;
