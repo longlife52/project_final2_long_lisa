@@ -12,7 +12,7 @@ html {
 body {
     margin: 0;
     padding: 0;
-    background-color: #d7cec7;
+    background-color: #fafafa;
 }
 
 /* headings styles */
@@ -46,19 +46,6 @@ h3 {
     font-size: 2.5em;
 }
 
-/* footer */
-footer {
-    text-align: center;
-}
-
-footer ul {
-    list-style-type: none;
-}
-
-footer ul li {
-    display: inline;
-    font-size: 0.625em;
-}
 
 /*
 header {
@@ -75,4 +62,53 @@ header {
 
 #logo {
     text-align: center;
+}
+
+/*
+#intro {
+    padding: 0.625em;
+}
+*/
+
+#intro h2 {
+    margin-top: -0.025em;
+}
+
+#intro h3 {
+    color: #c09f80;
+    margin-top: -1em;
+}
+
+#intro h2,
+h3 {
+    text-align: center;
+}
+
+.wood {
+    background-image: url(../img/wood.png);
+}
+
+.whitebox {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#intro p {
+    padding: 2em;
+    color: #fafafa;
+    font-size: 2em;
+}
+
+
+/* footer */
+footer {
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li {
+    display: inline;
+    font-size: 0.625em;
 }
