@@ -8,12 +8,14 @@ html {
     box-sizing: inherit;
 }
 
+/* Body */
 body {
     margin: 0;
     padding: 0;
     background-color: #d7cec7;
 }
 
+/* headings styles */
 h1,
 h2,
 h3,
@@ -38,4 +40,20 @@ h2 {
     font-size: 3em;
 }
 
-h3 {font-size: 2.5em}
+h3 {
+    font-size: 2.5em;
+}
+
+/* footer */
+footer {
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li {
+    display: inline;
+    font-size: 0.625em;
+}
