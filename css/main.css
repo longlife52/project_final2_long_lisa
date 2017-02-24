@@ -57,7 +57,8 @@ header {
 
 #topheader {
     background-color: #565656;
-    padding: 1em;
+    padding: 0.5em;
+    margin-bottom: 1em;
 }
 
 #logo {
