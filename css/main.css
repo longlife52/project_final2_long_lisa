@@ -34,6 +34,8 @@ h4 {
 
 h1 {
     font-size: 2em;
+    color: #d7cec7;
+    text-align: center;
 }
 
 h2 {
@@ -56,4 +58,21 @@ footer ul {
 footer ul li {
     display: inline;
     font-size: 0.625em;
+}
+
+/*
+header {
+    position: fixed;
+    top: 0;
+    z-index: 1500;
+}
+*/
+
+#topheader {
+    background-color: #565656;
+    padding: 1em;
+}
+
+#logo {
+    text-align: center;
 }
