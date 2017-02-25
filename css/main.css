@@ -137,6 +137,45 @@ h3 {
     }
 }
 
+/*
+
+@media (min-width: 600px) and (max-width: 840px) {
+    .wood {
+        float: right;
+        width: 50%;
+    }
+
+    nav {
+        float: left;
+        width: 50%;
+    }
+
+    nav h3 {
+        margin-top: 0;
+    }
+
+    button {
+        display: block;
+    }
+
+    .buttonbox {
+        text-align: left;
+    }
+}
+*/
+
+@media (min-width: 840px) {
+    .wood {
+        float: right;
+        width: 50%;
+    }
+
+    nav {
+        float: left;
+        width: 50%;
+    }
+}
+
 /* Nav */
 nav h3 {
     padding-top: 0.5em;
