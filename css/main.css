@@ -165,6 +165,10 @@ h3 {
 */
 
 @media (min-width: 850px) {
+    #intro h3 {
+        margin-bottom: 2em;
+    }
+
     .wood {
         float: right;
         width: 50%;
@@ -179,6 +183,10 @@ h3 {
     .border {
         border-top: dotted 0.25em #d7cec7;
         border-bottom: dotted 0.25em #d7cec7;
+    }
+
+    #food h3 {
+        margin-top: 3em;
     }
 }
 
