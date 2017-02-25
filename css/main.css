@@ -94,13 +94,6 @@ header {
 }
 
 /* intro */
-
-/*
-#intro {
-    padding: 0.625em;
-}
-*/
-
 #intro h2 {
     margin-top: -0.025em;
 }
@@ -127,6 +120,12 @@ h3 {
     padding: 2em 0 2em 1em;
     color: #fafafa;
     font-size: 2em;
+}
+
+@media (min-width: 450px) {
+    #intro h2 {
+        padding-top: 1em;
+    }
 }
 
 /* Nav */
