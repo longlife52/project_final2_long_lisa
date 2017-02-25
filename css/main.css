@@ -16,6 +16,7 @@ body {
 .container {
     background: #fafafa;
     margin: auto;
+    margin-top: 1em;
     max-width: 1000px;
 }
 

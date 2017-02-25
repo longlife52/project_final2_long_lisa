@@ -19,6 +19,8 @@
 
 * [Reviewed html button tag.](https://www.w3schools.com/tags/tag_button.asp)
 
+* [Researched break points for media queries based on content.](https://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints/)
+
 * [html5 Outliner](https://gsnedders.html5.org/outliner/)
 
 * [Visually hidden code shared by Richard.](https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css#L107-L169)
