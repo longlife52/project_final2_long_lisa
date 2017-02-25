@@ -21,6 +21,8 @@
 
 * [Researched break points for media queries based on content.](https://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints/)
 
+* [Excellent, quick resource to help with CSS centering questions.](https://css-tricks.com/centering-css-complete-guide/)
+
 * [html5 Outliner](https://gsnedders.html5.org/outliner/)
 
 * [Visually hidden code shared by Richard.](https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css#L107-L169)
