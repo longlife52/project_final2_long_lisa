@@ -23,6 +23,8 @@
 
 * [Excellent, quick resource to help with CSS centering questions.](https://css-tricks.com/centering-css-complete-guide/)
 
+* [Review Clear Fix Hack which I called .group in this project.](https://css-tricks.com/snippets/css/clear-fix/)
+
 * [html5 Outliner](https://gsnedders.html5.org/outliner/)
 
 * [Visually hidden code shared by Richard.](https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css#L107-L169)
