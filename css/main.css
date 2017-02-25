@@ -10,7 +10,13 @@ html {
 
 /* Body */
 body {
-    background-color: #fafafa;
+    background-color: #c09f80;
+}
+
+.container {
+    background: #fafafa;
+    margin: auto;
+    max-width: 1000px;
 }
 
 /* headings styles */
