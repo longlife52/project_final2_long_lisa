@@ -51,6 +51,7 @@ h3 {
     font-size: 2.5em;
 }
 
+/* header and logo */
 
 /*
 header {
@@ -69,6 +70,23 @@ header {
 #logo {
     text-align: center;
 }
+
+@media (min-width: 450px) {
+    #logo {
+        float: left;
+        width: calc(100% / 3);
+        position: absolute;
+        margin-top: -5em;
+    }
+
+    #topheader h1 {
+        text-align: left;
+        padding-left: 5em;
+        margin-bottom: 0;
+    }
+}
+
+/* intro */
 
 /*
 #intro {
