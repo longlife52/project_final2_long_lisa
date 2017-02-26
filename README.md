@@ -7,7 +7,7 @@
 
 [Checkout this project on my web host.](http://www.garrisonridge.com/garrisonridge/project_final2_long_lisa/)
 
-[A link to this project on W3C's Validator.]()
+[A link to this project on W3C's Validator.](https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.garrisonridge.com%2Fgarrisonridge%2Fproject_final2_long_lisa%2F)
 
 [A link to this project on the HTLM5 Outliner.](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.garrisonridge.com%2Fgarrisonridge%2Fproject_final2_long_lisa%2F)
 
