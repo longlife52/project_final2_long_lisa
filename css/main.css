@@ -61,23 +61,10 @@ h3 {
 }
 
 /* Header and Logo */
-
-/*
-header {
-    position: fixed;
-    top: 0;
-    z-index: 1500;
-}
-*/
-
 #topheader {
     background-color: #565656;
     padding: 0.5em;
     margin-bottom: 1em;
-/*
-    border-bottom: dotted 0.25em #888888;
-    border-top: dotted 0.25em #888888;
-*/
 }
 
 #logo {
