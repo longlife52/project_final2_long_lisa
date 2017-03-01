@@ -208,6 +208,11 @@ nav li:hover {
     color: #841f27;
 }
 
+#menuspace {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
 @media (min-width: 450px) {
     nav ul
     li {
