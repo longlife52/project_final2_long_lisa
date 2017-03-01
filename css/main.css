@@ -225,6 +225,8 @@ nav li:hover {
 
     .buttonbox {
         text-align: center;
+        padding-top: 2em;
+        padding-bottom: 3em;
     }
 }
 
