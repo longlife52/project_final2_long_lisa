@@ -10,7 +10,7 @@ html {
 
 /* Body */
 body {
-    background-color: #c09f80;
+    background-color: #fafafa;
 }
 
 .container {
@@ -71,6 +71,10 @@ h3 {
     text-align: center;
 }
 
+#logo img {
+    padding-top: 0.5em;
+}
+
 @media (min-width: 450px) {
     #logo {
         float: left;
@@ -101,16 +105,30 @@ h3 {
 
     header {
         position: fixed;
-        z-index: 1500;
-        top: 0;
-        left: 0;
         width: 100%;
     }
 
     #intro {
         padding-top: 4em;
     }
+
+    #logo {
+        float: none;
+        width: auto;
+        position: relative;
+        margin: auto;
+        margin-top: 1em;
+        max-width: 1000px;
+    }
+
+    #logo img {
+        position: absolute;
+        left: 5em;
+        top: -5em;
+    }
 }
+
+
 
 /* Intro */
 #intro h2 {
