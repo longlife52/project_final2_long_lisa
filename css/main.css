@@ -176,12 +176,9 @@ h3 {
     nav {
         float: left;
         width: 50%;
-        margin-bottom: -1em;
-    }
-
-    .border {
-        border-top: dotted 0.25em #d7cec7;
-        border-bottom: dotted 0.25em #d7cec7;
+        margin-bottom: -3em;
+        background-color: rgba(192, 159, 128, 0.2);
+        margin-top: -0.1em;
     }
 
     #food h3 {
