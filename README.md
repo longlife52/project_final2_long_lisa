@@ -44,4 +44,6 @@ I have reviewed the list of deductions for this project and in the syllabus.
 
 ## Comments
 
-Another monster assignment that took a long time to work through the details.  I hope to keep getting a bit faster with this work.
+Please see my Style-Tile.png in my Canvas upload. I tried to get the updated version to commit to the GitHub repo.  I guess since it is a hidden file, it would not update.
+
+Thank you for the help with the sticky logo. Another monster assignment that took a long time to work through the details.  I hope to keep getting a bit faster with this work.
