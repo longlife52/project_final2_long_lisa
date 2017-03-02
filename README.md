@@ -46,4 +46,6 @@ I have reviewed the list of deductions for this project and in the syllabus.
 
 Please see my Style-Tile.png in my Canvas upload. I tried to get the updated version to commit to the GitHub repo.  I guess since it is a hidden file, it would not update.
 
+I am not 100% happy with my the nav buttons that I styled.  I can't seem to figure out how to not lose the word unless the mouse is directly on the word.  Seems like I should know this.  I watched a couple tutorials on Lynda.com.  I think I have maxed out my brain capacity for this week. I would appreciate guidance on the nav :hover effect so I can play with it a bit more in the final project. Thanks!
+
 Thank you for the help with the sticky logo. Another monster assignment that took a long time to work through the details.  I hope to keep getting a bit faster with this work.
